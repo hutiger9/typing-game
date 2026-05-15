@@ -1,0 +1,7 @@
+export default {
+  id: "zh-3",
+  title: "登鹳雀楼",
+  author: "王之涣",
+  text: "白日依山尽，黄河入海流。欲穷千里目，更上一层楼",
+  difficulty: "easy"
+};
